@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TrangNhat>
+    <BaiChinh>
+        <news>
+            <image>https://i-vnexpress.vnecdn.net/2019/06/12/su1-8340-1560332847.jpg</image>
+            <title>Cựu chủ tịch Vinashin bị phạt 13 năm tù</title>
+            <short_des>Hai bị cáo là cựu chủ tịch Hội đồng thành viên, tổng giám đốc Vinashin hôm nay bị TAND Hà Nội tuyên 13 và 7 năm tù.</short_des>
+            <link>https://vnexpress.net/phap-luat/cuu-chu-tich-vinashin-bi-phat-13-nam-tu-3937550.html</link>
+        </news>
+    </BaiChinh>
+    <DanhSachTin>
+        <news>
+            <title>Giường chống tiên tai chịu được trọng lượng của một chiếc ô tô</title>
+            <link>https://vnexpress.net/khoa-hoc/giuong-chong-thien-tai-chiu-duoc-trong-luong-cua-mot-chiec-oto-3937121.html</link>
+        </news>
+        <news>
+            <title>Shanahan tặng sách về Triều Tiên cho tướng Trung Quốc tại Đối thoại Shangri-La</title>
+            <link>https://vnexpress.net/the-gioi/shanahan-tang-sach-ve-trieu-tien-cho-tuong-trung-quoc-tai-doi-thoai-shangri-la-3937570.html</link>
+        </news>
+        <news>
+            <title>Cuộc gặp ít được kỳ vọng của Trump - Tập</title>
+            <link>https://vnexpress.net/kinh-doanh/cuoc-gap-it-duoc-ky-vong-cua-trump-tap-3937454.html</link>
+        </news>
+        <news>
+            <title>Chủ tịch Warriors khóc nghẹn báo tin Durant chấn thương</title>
+            <link>https://vnexpress.net/the-thao/chu-tich-warriors-khoc-nghen-bao-tin-durant-chan-thuong-3937576.html</link>
+        </news>
+        <news>
+            <title>Triều Tiên đối phó khẩn cấp với dịch tả lợn châu Phi</title>
+            <link>https://vnexpress.net/the-gioi/trieu-tien-doi-pho-khan-cap-voi-dich-ta-lon-chau-phi-3937490.html</link>
+        </news>
+        <news>
+            <title>Cụ ông 71 tuổi ngã bất tỉnh ngay cửa bệnh viện</title>
+            <link>https://vnexpress.net/suc-khoe/cu-ong-71-tuoi-nga-bat-tinh-ngay-cua-benh-vien-3937481.html</link>
+        </news>
+        <news>
+            <title>Bạn của Park Hang-seo thôi làm HLV Viettel</title>
+            <link>https://vnexpress.net/bong-da/ban-cua-park-hang-seo-thoi-lam-hlv-viettel-3937553.html</link>
+        </news>
+    </DanhSachTin>
+</TrangNhat>
