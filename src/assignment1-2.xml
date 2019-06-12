@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bao24h>
+    <category>
+        <category_name>Tin tức trong ngày</category_name>
+        <category_link>https://www.24h.com.vn/tin-tuc-trong-ngay-c46.html</category_link>
+        <category_news>
+            <TinChinh>
+                <news>
+                    <title>Truy tìm mẹ trẻ xăm trổ xách con nhỏ vài tháng tuổi lủng lẳng trên tay</title>
+                    <image>https://cdn.24h.com.vn/upload/2-2019/images/2019-06-12/120x90/600-1560339055-518-width640height480.jpg</image>
+                    <shor_des>Hình ảnh người mẹ trẻ xăm trổ, túm áo xách con nhỏ vài tháng tuổi lủng lẳng trên tay khiến dư luận phẫn nộ.</shor_des>
+                    <link>https://www.24h.com.vn/tin-tuc-trong-ngay/truy-tim-me-tre-xam-tro-xach-con-nho-vai-thang-tuoi-lung-lang-tren-tay-c46a1057981.html</link>
+                    <hagtag>
+                        <name>Bạo hành trẻ em</name>
+                        <link>https://www.24h.com.vn/bao-hanh-tre-em-c46e766.html</link>
+                    </hagtag>
+                </news>
+            </TinChinh>
+        </category_news>
+    </category>
+
+    <SubCategory>
+        <category_name>Tin Hà Nội</category_name>
+        <category_link>https://www.24h.com.vn/tin-ha-noi-c414.html</category_link>
+        <category_name>Tin TP.HCM</category_name>
+        <category_link>https://www.24h.com.vn/tin-tp-ho-chi-minh-c412.html</category_link>
+        <category_name>Tin thời tiết</category_name>
+        <category_link>https://www.24h.com.vn/du-bao-thoi-tiet-c568.html</category_link>
+    </SubCategory>
+
+    <DanhSachTin>
+        <news>
+            <title>Phó Bí thư tỉnh Sóc Trăng đi nước ngoài, "vô tình" gặp...</title>
+            <link>https://www.24h.com.vn/tin-tuc-trong-ngay/tinh-uy-soc-trang-phu-nhan-duoc-dai-gia-trinh-suong-tai-tro-di-nuoc-ngoai-c46a1057988.html</link>
+        </news>
+        <news>
+            <title>Chính phủ rút đề xuất chọn ngày Thương binh liệt sĩ...</title>
+            <link>https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-phu-rut-de-xuat-chon-ngay-thuong-binh-liet-si-27-7-la-ngay-nghi-le-c46a1057983.html</link>
+        </news>
+        <news>
+            <title>Ông Trần Vĩnh Tuyến thôi phụ trách mảng đô thị</title>
+            <link>https://www.24h.com.vn/tin-tuc-trong-ngay/ong-tran-vinh-tuyen-thoi-phu-trach-mang-do-thi-c46a1057979.html</link>
+        </news>
+    </DanhSachTin>
+</Bao24h>
